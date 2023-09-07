@@ -1,0 +1,50 @@
+{
+  "main": "node_modules/expo/AppEntry.js",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "web": "expo start --web",
+    "eject": "expo eject"
+  },
+  "dependencies": {
+    "@expo/vector-icons": "^13.0.0",
+    "@react-native-async-storage/async-storage": "^1.19.3",
+    "@react-navigation/bottom-tabs": "^6.5.8",
+    "@react-navigation/native": "^6.1.7",
+    "@react-navigation/native-stack": "^6.9.13",
+    "axios": "^1.4.0",
+    "expo": "^49.0.7",
+    "expo-constants": "^14.4.2",
+    "expo-image-picker": "~14.3.2",
+    "expo-location": "~16.1.0",
+    "expo-status-bar": "~1.6.0",
+    "lottie-ios": "^3.1.8",
+    "lottie-react-native": "5.1.6",
+    "react": "^18.2.0",
+    "react-dom": "18.2.0",
+    "react-native": "0.72.4",
+    "react-native-gesture-handler": "^2.12.1",
+    "react-native-image-pan-zoom": "^2.1.12",
+    "react-native-keyboard-aware-scroll-view": "^0.9.5",
+    "react-native-maps": "^1.7.1",
+    "react-native-paper": "^4.12.1",
+    "react-native-safe-area-context": "4.6.3",
+    "react-native-screens": "~3.22.0",
+    "react-native-swiper": "^1.6.0",
+    "react-native-vector-icons": "^9.1.0",
+    "react-native-web": "~0.19.6"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.20.0",
+    "expo-cli": "^6.3.7",
+    "reactotron-react-native": "^5.0.3"
+  },
+  "private": true,
+  "name": "react-native-starterkit-master",
+  "version": "1.0.0",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
